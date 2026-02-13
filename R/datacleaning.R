@@ -1,1 +1,1 @@
-#This file is used for cleaning data downloaded from Bloomberg
+#Il seguente file sarà usato per pulire i dati scaricati da Bloomberg 
